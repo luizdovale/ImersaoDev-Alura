@@ -56,7 +56,7 @@ const bandas = [
     {
         nome: "Foo Fighters",
         descricao: "Banda de rock formada em 1994 por Dave Grohl após o fim do Nirvana, conhecida por álbuns como The Colour and the Shape e Wasting Light.",
-        imagem: "assets/foo-fighters.jpeg",
+        imagem: "assets/foo-fighters.jpg",
         link: "https://pt.wikipedia.org/wiki/Foo_Fighters"
     },
     {
